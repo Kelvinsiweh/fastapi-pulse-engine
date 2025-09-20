@@ -22,3 +22,12 @@ Access API docs at `http://localhost:8000/docs`.
 ```bash
 curl -X GET http://localhost:8000/health
 ```
+
+## Contributors
+
+This project is actively developed and maintained by:
+- **[Kelvin Fomukong Siweh Nkweche](https://github.com/Kelvinsiweh)**
+- **[Ndemafia](https://github.com/ndemafiawilsmith)**
+
+Contributions, issue reports, and suggestions are welcome!
+
