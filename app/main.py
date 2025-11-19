@@ -29,3 +29,7 @@ async def health_check():
 
 app.include_router(auth.router, prefix=f"{settings.API_V1_STR}/auth", tags=["Authentication"])
 app.include_router(metrics.router, prefix=f"{settings.API_V1_STR}/metrics", tags=["Metrics"])
+
+
+from app.core.middleware import TimingMiddleware
+app.add_middleware(TimingMiddleware)
