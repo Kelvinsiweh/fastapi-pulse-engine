@@ -2,3 +2,4 @@
 [2025-10-06 18:44:58 +0100] docs: update API documentation and usage guidelines (ref: cffdd2b1, by: Kelvin Fomukong Siweh Nkweche)
 [2025-10-31 12:10:17 +0100] docs: update API documentation and usage guidelines (ref: dbbb5cb2, by: Kelvin Fomukong Siweh Nkweche)
 [2025-11-07 10:02:13 +0100] docs: update API documentation and usage guidelines (ref: a1501cc8, by: Kelvin Fomukong Siweh Nkweche)
+[2025-12-01 18:12:46 +0100] docs: update API documentation and usage guidelines (ref: 40d16d86, by: Ndemafia)
