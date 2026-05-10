@@ -25,3 +25,6 @@ async def get_db():
             await session.close()
 
 # Engine pre-ping enabled
+
+
+# WAL mode optimization
