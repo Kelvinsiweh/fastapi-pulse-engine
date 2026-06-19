@@ -30,3 +30,5 @@ async def list_metrics(
 ):
     query = await db.execute(select(ServiceMetric).offset(skip).limit(limit))
     return query.scalars().all()
+
+# Added pagination headers
