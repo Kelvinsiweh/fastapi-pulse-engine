@@ -34,3 +34,6 @@ class MetricResponse(MetricCreate):
 
     class Config:
         from_attributes = True
+
+
+# Enriched schema docs
