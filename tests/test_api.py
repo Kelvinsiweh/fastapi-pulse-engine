@@ -16,3 +16,5 @@ async def test_unauthorized_metrics_access():
     async with AsyncClient(transport=transport, base_url="http://test") as client:
         response = await client.get("/api/v1/metrics/")
         assert response.status_code == 401
+
+# Expiration test
